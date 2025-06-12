@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 # Hi there, I'm Adith! 👋
 - 👨‍💻 Proficient in Python and C/C++ with expertise in dynamic programming and algorithms </br>
