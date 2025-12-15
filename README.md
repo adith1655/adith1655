@@ -3,8 +3,7 @@
 - 👨‍💻 Proficient in Python and C/C++ with expertise in dynamic programming and algorithms </br>
 - 🔍 Exploring Chrome extensions and systems-level programming. </br>
 - 🌱 Always curious to learn and solve problems! </br>
-- 🧠 Computer Science (AI & ML) student at MUJ </br>
-- 🥅 Hobbies: Football, Badminton, Coding </br>
+- 🧠 Computer Science (AI & ML) at MUJ </br>
 - 📷 https://www.instagram.com/not._adith/ </br>
 
 
