@@ -1,5 +1,5 @@
 
-# Hi there, I'm Adith! 👋
+# Hi there, I'm Adith Nambiar! 👋
 - 👨‍💻 Proficient in Python and C/C++ with expertise in dynamic programming and algorithms </br>
 - 🔍 Exploring Chrome extensions and systems-level programming. </br>
 - 🌱 Always curious to learn and solve problems! </br>
