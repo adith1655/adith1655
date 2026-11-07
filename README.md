@@ -75,9 +75,7 @@ Full-stack platform replacing paper muster rolls and manual PF/ESI compliance fo
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adith1655&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adith1655&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=adith1655&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
